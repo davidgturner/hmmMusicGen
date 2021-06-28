@@ -1,0 +1,10 @@
+[PropertyInfo]
+generatedPhrase,Phrase,false,false, , ,false,<default>
+instance,HMMManager,false,false, , ,false,<default>
+matrix,PhraseMatrix,false,false, , ,false,<default>
+megaPhrase,Phrase,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

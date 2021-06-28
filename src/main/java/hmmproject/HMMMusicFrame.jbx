@@ -1,0 +1,26 @@
+[PropertyInfo]
+appletInfo,String,false,false, , ,true,<default>
+compositionOptions,ButtonGroup,false,false, , ,false,<default>
+hmmAlgorithms,ButtonGroup,false,false, , ,false,<default>
+isStandalone,boolean,false,false, , ,false,<default>
+JButton1,JButton,false,false, , ,true,<default>
+JButton2,JButton,false,false, , ,true,<default>
+JButton3,JButton,false,false, , ,true,<default>
+JCheckbox1,JCheckBox,false,false, , ,true,<default>
+JCheckBox1,JCheckBox,false,false, , ,true,<default>
+JCheckbox2,JCheckBox,false,false, , ,true,<default>
+JCheckBox2,JCheckBox,false,false, , ,true,<default>
+JCheckbox3,JCheckBox,false,false, , ,true,<default>
+JCheckBox3,JCheckBox,false,false, , ,true,<default>
+JLabel12,JLabel,false,false, , ,true,<default>
+JLabel13,JLabel,false,false, , ,true,<default>
+JLabel13Text,String,false,false, , ,true,<default>
+JLabel9,JLabel,false,false, , ,true,<default>
+jList1,JList,false,false, , ,false,<default>
+JTextField1,JTextField,false,false, , ,true,<default>
+parameterInfo,String[][],false,false, , ,true,<default>
+[IconNames]
+
+
+
+
