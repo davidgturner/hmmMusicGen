@@ -14,26 +14,7 @@ import jm.music.data.Phrase;
 import java.io.IOException;
 import java.util.Vector;
 
-/**
- * <p>
- * Title:
- * </p>
- * <p>
- * Description:
- * </p>
- * <p>
- * Copyright: Copyright (c) 2004
- * </p>
- * <p>
- * Company:
- * </p>
- *
- * @author not attributable
- * @version 1.0
- */
-
-public class HMMMusic
-        implements JMC {
+public class HMMMusic implements JMC {
 
     /**
      * The depth of the markov array (ie The number of prior states to use in
@@ -85,8 +66,6 @@ public class HMMMusic
 
     /**
      * helper method to adds a phrase to the sequence sets
-     *
-     * @param phr
      */
     private void addPhrase(Phrase phrase) {
         int[] p = phrase.getPitchArray();

@@ -19,8 +19,6 @@ import java.util.Vector;
  * markov processing.
  * </p>
  *
- * @author David Turner
- * @version 1.0
  */
 
 public class HMMManager {

@@ -14,16 +14,32 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>com.explodingart</groupId>
-            <artifactId>jmusic</artifactId>
-            <version>1.6.4.1</version>
-        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>com.explodingart</groupId>-->
+        <!--            <artifactId>jmusic</artifactId>-->
+        <!--            <version>1.6.4.1</version>-->
+        <!--        </dependency>-->
+        <!-- find maven repo with this -->
+        <!--        <dependency>-->
+        <!--            <groupId>be.ac.ulg.montefiore.run.jahmm</groupId>-->
+        <!--            <artifactId>jahmm</artifactId>-->
+        <!--            <version>0.6.2</version>-->
+        <!--        </dependency>-->
         <dependency>
             <groupId>be.ac.ulg.montefiore.run.jahmm</groupId>
             <artifactId>jahmm</artifactId>
-            <version>0.6.2</version>
+            <version>0.2.6</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/jahmm-0.2.6.jar</systemPath>
         </dependency>
+        <dependency>
+            <groupId>jm</groupId>
+            <artifactId>jmusic_legacy</artifactId>
+            <version>0.0.1</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/jm.jar</systemPath>
+        </dependency>
+
     </dependencies>
 
 </project>

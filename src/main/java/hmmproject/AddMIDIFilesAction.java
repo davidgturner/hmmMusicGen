@@ -4,16 +4,6 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.util.ArrayList;
 
-/**
- * <p>Title: </p>
- * <p>Description: </p>
- * <p>Copyright: Copyright (c) 2004</p>
- * <p>Company: </p>
- *
- * @author not attributable
- * @version 1.0
- */
-
 public class AddMIDIFilesAction extends HMMAbstractAction {
 
     public AddMIDIFilesAction(HMMMusicFrame applet, HMMManager manager) {

@@ -11,18 +11,6 @@ import java.util.Vector;
  * <p>
  * Title: Holds the algorithm we want to use when learning and traning the HMM
  * </p>
- * <p>
- * Description:
- * </p>
- * <p>
- * Copyright: Copyright (c) 2004
- * </p>
- * <p>
- * Company:
- * </p>
- *
- * @author not attributable
- * @version 1.0
  */
 public class HMMAlgorithm {
 
